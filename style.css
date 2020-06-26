@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(17, 21, 23);
+}
+
+.main{
+   
+    border: 2px solid black;
+    width: 350px;
+
+}    
+
+.inpp{
+    height: 60px;
+    width: 347px;
+    background-color: rgb(17, 21, 23);
+    color: white;
+    text-align: right;
+    font-size: 40px;
+}
+
+textarea:focus, input:focus {
+    color:white;
+    
+}
+
+.firstdiv{
+    padding-bottom: 4px;
+}
+
+.bb{
+    width: 83.5px;
+    
+}
+.roww{
+    padding-top: 4px;
+    padd
+}
+
+.zeroo{
+    width:170px;
+}
+.orgbtn{
+    color: white;
+}
